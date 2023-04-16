@@ -1,0 +1,33 @@
+##### 公文楷体
+
+To non-Chinese players: this mod is a Chinese map font mod.
+
+本MOD为地图字体MOD，作用是将地图字体替换为「方正公文楷体」。
+需要同时订阅 [b]汉化MOD[/b] 使用（如原版汉化、ET汉化）。
+（不需要ET汉化也可以使用。）
+
+##### 古典明朝体
+
+To non-Chinese players: this mod is a Chinese map font mod.
+
+本MOD为地图字体MOD，作用是将地图字体替换为「文悦古典明朝体」。
+需要同时订阅 汉化MOD 使用（如原版汉化、ET汉化）。
+（不需要ET汉化也可以使用。）
+
+##### 康熙字典体
+
+To non-Chinese players: this mod is a Chinese map font mod.
+
+本MOD为中文地图字体包MOD，作用是将地图字体替换为「康熙字典体」。
+需要同时订阅 汉化MOD 使用（如原版汉化、ET汉化）。
+（不需要ET汉化也可以使用。）
+已知问题：
+1. 缺少英文字符，这是字体本身的问题，如果觉得不舒服可以关掉动态地名
+
+##### 思源宋体
+
+To non-Chinese players: this mod is a Chinese map font mod.
+
+本MOD为中文地图字体包MOD，作用是将地图字体替换为「思源宋体」。
+需要同时订阅 汉化MOD 使用（如原版汉化、ET汉化）。
+（不需要ET汉化也可以使用。）
