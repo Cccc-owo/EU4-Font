@@ -1,10 +1,10 @@
 # EU4 字体
 
-![thumbnail](thumbnail.png)
-
 [![GitHub all releases](https://img.shields.io/github/downloads/Cccc-owo/EU4-Font/total?label=GitHub%20downloads&style=flat-square)](https://github.com/Cccc-owo/EU4-Font/releases)
 [![GitHub tag](https://img.shields.io/github/v/release/Cccc-owo/EU4-Font?sort=semver&style=flat-square)](https://github.com/Cccc-owo/EU4-Font/tags)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cccc-owo/EU4-Font?style=flat-square)](https://github.com/Cccc-owo/EU4-Font/graphs/commit-activity)
+
+一群EU4地图字体集合
 
 ## 下载 & 使用
 
