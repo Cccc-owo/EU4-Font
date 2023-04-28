@@ -1,10 +1,10 @@
-version="1.0"
+version="1.2"
 tags={
 	"Map"
 }
 name="汉化字体-思源宋体"
 dependencies={
-	"Chinese Language Mod for 1.34"
+	"Chinese Language Mod for 1.35"
 	"延长时间线汉化计划 - Extended Timeline Chinese Localisation Project"
 }
 picture="thumbnail.png"
