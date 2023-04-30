@@ -7,6 +7,7 @@
 |font-KangXiZiDianTi.zip|康熙字典体|
 |font-Source-Han-Serif.zip|思源黑体|
 
+- 支持的汉化MOD：52汉化，ET汉化，左版风云世纪两千年
 - 更新字体
 
 <details><summary>历史更新日志</summary>
