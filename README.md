@@ -24,7 +24,7 @@
 |[font-GongWenKaiTi](font-GongWenKaiTi)|方正公文楷体||
 |[font-GuDianMingChaoTi](font-GuDianMingChaoTi)|文悦古典明朝体||
 |[font-KangXiZiDianTi](font-KangXiZiDianTi)|康熙字典体||
-|[font-Source-Han-Serif](font-Source-Han-Serif)|思源黑体||
+|[font-Source-Han-Serif](font-Source-Han-Serif)|思源宋体||
 |[mod_descriptor](mod_descriptor)|mod 描述符文件||
 |output|输出文件夹|运行 ```main.bat``` 时会自动建立|
 
