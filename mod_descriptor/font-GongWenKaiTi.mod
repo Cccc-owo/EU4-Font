@@ -1,10 +1,11 @@
-version="1.4"
+version="1.5"
 tags={
 	"Map"
 }
 name="汉化字体-方正公文楷体"
 dependencies={
 	"Chinese Language Mod for 1.35"
+	"Chinese Language Mod for 1.35.3"
 	"延长时间线汉化计划 - Extended Timeline Chinese Localisation Project"
 	"Bimillennium_Universalis_9.0"
 }
