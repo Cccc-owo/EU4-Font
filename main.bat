@@ -10,6 +10,7 @@ goto select
 if exist output/font-GongWenKaiTi.mod ( ECHO. ) else ( goto set_GongWenKaiTi )
 if exist output/font-GuDianMingChaoTi.mod ( ECHO. ) else ( goto set_GuDianMingChaoTi )
 if exist output/font-KangXiZiDianTi.mod ( ECHO. ) else ( goto set_KangXiZiDianTi )
+if exist output/font-LiShu.mod ( ECHO. ) else ( goto set_LiShu )
 if exist output/font-Source-Han-Serif.mod ( ECHO. ) else ( goto set_Source-Han-Serif )
 goto end
 
@@ -26,6 +27,11 @@ goto process
 :set_KangXiZiDianTi
 set mod_desc=font-KangXiZiDianTi.mod
 set mod_dir=font-KangXiZiDianTi
+goto process
+
+:set_LiShu
+set mod_desc=font-LiShu.mod
+set mod_dir=font-LiShu
 goto process
 
 :set_Source-Han-Serif
