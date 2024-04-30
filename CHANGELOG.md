@@ -27,6 +27,12 @@
 |伏尔泰的噩梦Ⅱ汉化整合||
 |Third Odyssey: Back to the Motherland CN|第三奥德赛汉化|
 |萬方景明||
+|天行有常demo||
+
+## v2.2 20240430
+ 
+- 补充更多字符
+- 为字体图加入适当的透明度
 
 <details><summary>历史更新日志</summary>
 

@@ -17,6 +17,7 @@ dependencies={
 	"伏尔泰的噩梦Ⅱ汉化整合"
 	"Third Odyssey: Back to the Motherland CN"
 	"萬方景明"
+	"天行有常demo"
 }
 picture="thumbnail.png"
 supported_version="*.*.*"
