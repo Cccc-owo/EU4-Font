@@ -22,7 +22,7 @@ jobs:
         run: ./main.bat
 
       - name: Upload generated files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: font-artifact
           path: |
@@ -34,7 +34,7 @@ jobs:
     runs-on: windows-latest
     if: startsWith(github.ref, 'refs/tags/') != true
     steps:
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: font-artifact
 
@@ -56,13 +56,58 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: font-artifact
 
       - name: Release Action
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: |
             *.zip
           body_path: CHANGELOG.md
+
+  publish:
+    runs-on: windows-2019
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/')
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: font-artifact
+
+      - name: Unzip mod
+        run: |
+          mkdir output
+          7z.exe x *.zip -ooutput
+        shell: cmd
+
+      - name: Get steamcmd
+        run: |
+          dir
+          curl https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip --output steamcmd.zip
+          7z.exe e steamcmd.zip -osteamcmd
+          dir
+        shell: cmd
+
+      - name: Checkout steamcmd config
+        uses: actions/checkout@v4
+        with:
+          repository: Cccc-owo/steamcmd
+          token: ${{ secrets.STEAMCMD_TOKEN }}
+          path: steamcmd/config
+
+      - name: Upload Steam workshop
+        run: |
+          cd steamcmd
+          dir
+          steamcmd.exe -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% +workshop_build_item ..\resources\GongWenKaiTi.vdf +workshop_build_item ..\resources\GuDianMingChaoTi.vdf +workshop_build_item ..\resources\KangXiZiDianTi.vdf +workshop_build_item ..\resources\LiShu.vdf +workshop_build_item ..\resources\Source-Han-Serif.vdf +quit
+        env:
+          STEAM_LOGIN_NAME: ${{ secrets.STEAM_LOGIN_NAME }}
+          STEAM_LOGIN_PASSWORD: ${{ secrets.STEAM_LOGIN_PASSWORD }}
+        shell: cmd
+        continue-on-error: true
