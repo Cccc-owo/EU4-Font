@@ -15,7 +15,7 @@
 |Mod name|备注|
 |----|----|
 |Chinese Language Mod|52汉化|
-|Chinese Language Mod for 1.37|52汉化补充包|
+|Chinese Language Supplementary Mod|52汉化补充包|
 |延长时间线汉化 - Extended Timeline Chinese||
 |Bimillennium_Universalis_9.0|（左版）风云世纪两千年|
 |战争前夜汉化||
@@ -23,20 +23,23 @@
 |奇异帝国（The Odd Empires）汉化||
 |MnT3.0 简中汉化子MOD「筑紫圆体」||
 |帝国风云3.11 帝国的成长 基础汉化版||
-|1.36 Celestial empire on which the sun never sets|东亚·天朝日不落|
-|1.37 Celestial empire on which the sun never sets|东亚·天朝日不落|
+|1.37 Celestial empire on which the sun never sets|1.37 东亚·天朝日不落|
 |伏尔泰的噩梦Ⅱ汉化整合||
 |Third Odyssey: Back to the Motherland CN|第三奥德赛汉化|
 |萬方景明||
 |天行有常demo||
 
-## v2.3 20240525
- 
-- 适配 v1.37
+## v2.4 20240620
+
+- 尝试修复与日不落的兼容性
 
 <details><summary>历史更新日志</summary>
 
 - 更新字体
+
+## v2.3 20240525
+ 
+- 适配 v1.37
 
 ## v2.2 20240430
  
