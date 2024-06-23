@@ -9,6 +9,7 @@ dependencies={
 	"Chinese Language Mod for 1.37"
 	"Chinese Language Supplementary Mod for 1.37"
 	"1.37 Celestial empire on which the sun never sets"
+	"Anbennar: A Fantasy Total Conversion"
 	"Anbennar Chinese ver"
 	"Bimillennium_Universalis_9.0"
 	"帝国风云3.11 帝国的成长 基础汉化版"
