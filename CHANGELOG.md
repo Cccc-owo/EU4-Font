@@ -6,6 +6,7 @@
 |----|----|
 |font-GongWenKaiTi.zip|方正公文楷体|
 |font-GuDianMingChaoTi.zip|文悦古典明朝体|
+|font-GuDianMingChaoTi-W.zip|文悦古典明朝体（白）|
 |font-KangXiZiDianTi.zip|康熙字典体|
 |font-LiShu.zip|隶书|
 |font-Source-Han-Serif.zip|思源宋体|
@@ -29,13 +30,19 @@
 |萬方景明||
 |天行有常demo||
 
-## v2.5 20240623
+## v2.6 20240711
 
-- 尝试修复与Anbennar的兼容性
+- 补充字库
+- 增加白色版本的文悦古典明朝体
+- 停止维护康熙字典体
 
 <details><summary>历史更新日志</summary>
 
 - 更新字体
+
+## v2.5 20240623
+
+- 尝试修复与Anbennar的兼容性
 
 ## v2.4 20240620
 

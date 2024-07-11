@@ -23,13 +23,12 @@
 |[.github](.github)|GitHub 工作流文件||
 |[font-GongWenKaiTi](font-GongWenKaiTi)|方正公文楷体||
 |[font-GuDianMingChaoTi](font-GuDianMingChaoTi)|文悦古典明朝体||
+|[font-GuDianMingChaoTi-W](font-GuDianMingChaoTi-W)|文悦古典明朝体-白||
 |[font-KangXiZiDianTi](font-KangXiZiDianTi)|康熙字典体||
 |[font-LiShu](font-LiShu)|隶书||
 |[font-Source-Han-Serif](font-Source-Han-Serif)|思源宋体||
 |[mod_descriptor](mod_descriptor)|mod 描述符文件||
 |output|输出文件夹|运行 ```main.bat``` 时会自动建立|
-
-```7z.exe``` 和 ```7z.dll``` 提取自官方 7-Zip 23.01 (2023-06-20)
 
 ## 作者
 

@@ -1,0 +1,26 @@
+version="2.6"
+tags={
+	"Map"
+}
+name="中文地图字体-古典明朝体（白）"
+dependencies={
+	"Chinese Language Mod"
+	"Chinese Language Supplementary Mod"
+	"Chinese Language Mod for 1.37"
+	"Chinese Language Supplementary Mod for 1.37"
+	"1.37 Celestial empire on which the sun never sets"
+	"Anbennar: A Fantasy Total Conversion"
+	"Anbennar Chinese ver"
+	"Bimillennium_Universalis_9.0"
+	"帝国风云3.11 帝国的成长 基础汉化版"
+	"伏尔泰的噩梦Ⅱ汉化整合"
+	"MnT3.0 简中汉化子MOD「筑紫圆体」"
+	"奇异帝国（The Odd Empires）汉化"
+	"Third Odyssey: Back to the Motherland CN"
+	"天行有常demo"
+	"萬方景明"
+	"延长时间线汉化 - Extended Timeline Chinese"
+	"战争前夜汉化"
+}
+picture="thumbnail.png"
+supported_version="v1.*.*"

@@ -105,7 +105,7 @@ jobs:
         run: |
           cd steamcmd
           dir
-          steamcmd.exe -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% +workshop_build_item ..\resources\GongWenKaiTi.vdf +workshop_build_item ..\resources\GuDianMingChaoTi.vdf +workshop_build_item ..\resources\KangXiZiDianTi.vdf +workshop_build_item ..\resources\LiShu.vdf +workshop_build_item ..\resources\Source-Han-Serif.vdf +quit
+          steamcmd.exe -dev -textmode -ignoredxsupportcfg +login %STEAM_LOGIN_NAME% +workshop_build_item ..\resources\GongWenKaiTi.vdf +workshop_build_item ..\resources\GuDianMingChaoTi.vdf +workshop_build_item ..\resources\GuDianMingChaoTi-W.vdf +workshop_build_item ..\resources\LiShu.vdf +workshop_build_item ..\resources\Source-Han-Serif.vdf +quit
         env:
           STEAM_LOGIN_NAME: ${{ secrets.STEAM_LOGIN_NAME }}
           STEAM_LOGIN_PASSWORD: ${{ secrets.STEAM_LOGIN_PASSWORD }}
