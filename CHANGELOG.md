@@ -29,16 +29,21 @@
 |Third Odyssey: Back to the Motherland CN|第三奥德赛汉化|
 |萬方景明||
 |天行有常demo||
+|1356 Reborn 简体中文版||
+
+## v2.6.2 20240807
+
+- 适配 1356 Reborn 简体中文版
+
+<details><summary>历史更新日志</summary>
+
+- 更新字体
 
 ## v2.6.1 20240711
 
 - 补充字库
 - 增加白色版本的文悦古典明朝体
 - 停止维护康熙字典体
-
-<details><summary>历史更新日志</summary>
-
-- 更新字体
 
 ## v2.5 20240623
 

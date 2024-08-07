@@ -1,4 +1,4 @@
-version="2.6.1"
+version="2.6.2"
 tags={
 	"Map"
 }
@@ -21,6 +21,7 @@ dependencies={
 	"萬方景明"
 	"延长时间线汉化 - Extended Timeline Chinese"
 	"战争前夜汉化"
+	"1356 Reborn 简体中文版"
 }
 picture="thumbnail.png"
 supported_version="v1.*.*"
