@@ -1,4 +1,4 @@
-version="2.6.2"
+version="2.6.3"
 tags={
 	"Map"
 }
@@ -22,6 +22,7 @@ dependencies={
 	"延长时间线汉化 - Extended Timeline Chinese"
 	"战争前夜汉化"
 	"1356 Reborn 简体中文版"
+	"NYAB Expanded"
 }
 picture="thumbnail.png"
 supported_version="v1.*.*"
