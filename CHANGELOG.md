@@ -30,14 +30,17 @@
 |萬方景明||
 |天行有常demo||
 |1356 Reborn 简体中文版||
+|NYAB Expanded|战争前夜拓展|
+
+<details><summary>历史更新日志</summary>
+
+- 尝试适配战争前夜拓展
 
 ## v2.6.2 20240807
 
 - 适配 1356 Reborn 简体中文版
 
 <details><summary>历史更新日志</summary>
-
-- 更新字体
 
 ## v2.6.1 20240711
 
