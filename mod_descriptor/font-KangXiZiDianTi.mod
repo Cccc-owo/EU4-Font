@@ -23,5 +23,5 @@ dependencies={
 	"战争前夜汉化"
 }
 picture="thumbnail.png"
-supported_version="v1.*.*"
+supported_version="v1.37.*"
 remote_file_id="2948571848"

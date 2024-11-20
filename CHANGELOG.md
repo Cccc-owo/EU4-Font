@@ -19,6 +19,7 @@
 |Chinese Language Supplementary Mod|52汉化补充包|
 |延长时间线汉化 - Extended Timeline Chinese||
 |Bimillennium_Universalis_9.0|（左版）风云世纪两千年|
+|左版·风云世纪两千年||
 |战争前夜汉化||
 |Anbennar Chinese ver|安本纳尔汉化|
 |奇异帝国（The Odd Empires）汉化||
@@ -32,15 +33,20 @@
 |1356 Reborn 简体中文版||
 |NYAB Expanded|战争前夜拓展|
 
+## v2.7.0
+
+- 扩充字库
+- 为大部分字体添加阴影和透明度
+
 <details><summary>历史更新日志</summary>
+
+## v2.6.3
 
 - 尝试适配战争前夜拓展
 
 ## v2.6.2 20240807
 
 - 适配 1356 Reborn 简体中文版
-
-<details><summary>历史更新日志</summary>
 
 ## v2.6.1 20240711
 

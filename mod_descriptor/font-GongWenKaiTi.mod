@@ -1,4 +1,4 @@
-version="2.6.3"
+version="2.7.0"
 tags={
 	"Map"
 }
@@ -12,6 +12,8 @@ dependencies={
 	"Anbennar: A Fantasy Total Conversion"
 	"Anbennar Chinese ver"
 	"Bimillennium_Universalis_9.0"
+	"左版·风云世纪两千年"
+	"Bimillennium_Universalis"
 	"帝国风云3.11 帝国的成长 基础汉化版"
 	"伏尔泰的噩梦Ⅱ汉化整合"
 	"MnT3.0 简中汉化子MOD「筑紫圆体」"
@@ -25,5 +27,5 @@ dependencies={
 	"NYAB Expanded"
 }
 picture="thumbnail.png"
-supported_version="v1.*.*"
+supported_version="v1.37.*"
 remote_file_id="2922818916"
