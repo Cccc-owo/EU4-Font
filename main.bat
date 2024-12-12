@@ -12,6 +12,7 @@ if exist output/font-GuDianMingChaoTi.mod ( ECHO. ) else ( goto set_GuDianMingCh
 if exist output/font-GuDianMingChaoTi-W.mod ( ECHO. ) else ( goto set_GuDianMingChaoTi-W )
 ::if exist output/font-KangXiZiDianTi.mod ( ECHO. ) else ( goto set_KangXiZiDianTi )
 if exist output/font-LiShu.mod ( ECHO. ) else ( goto set_LiShu )
+if exist output/font-MiSans.mod ( ECHO. ) else ( goto set_MiSans )
 if exist output/font-Source-Han-Serif.mod ( ECHO. ) else ( goto set_Source-Han-Serif )
 goto end
 
@@ -38,6 +39,11 @@ goto process
 :set_LiShu
 set mod_desc=font-LiShu.mod
 set mod_dir=font-LiShu
+goto process
+
+:set_MiSans
+set mod_desc=font-MiSans.mod
+set mod_dir=font-MiSans
 goto process
 
 :set_Source-Han-Serif

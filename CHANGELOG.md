@@ -9,6 +9,7 @@
 |font-GuDianMingChaoTi-W.zip|文悦古典明朝体（白）|
 |font-KangXiZiDianTi.zip|康熙字典体|
 |font-LiShu.zip|隶书|
+|font-MiSans.zip|MiSans|
 |font-Source-Han-Serif.zip|思源宋体|
 
 支持的中文MOD（排名不分先后）：
@@ -33,12 +34,16 @@
 |1356 Reborn 简体中文版||
 |NYAB Expanded|战争前夜拓展|
 
+## v2.8.0
+
+- 增加 MiSans，仿钢铁雄心4风格
+
+<details><summary>历史更新日志</summary>
+
 ## v2.7.0
 
 - 扩充字库
 - 为大部分字体添加阴影和透明度
-
-<details><summary>历史更新日志</summary>
 
 ## v2.6.3
 
