@@ -50,6 +50,15 @@ To non-Chinese players: this mod is a Chinese map font mod.
 如有其他汉化 MOD 使用本地图字体无效的，请在下方评论区留言。
 声明：非开源字体版权归原著作权人所有。此处仅作为个人分享交流使用。
 
+##### MiSans
+
+To non-Chinese players: this mod is a Chinese map font mod.
+
+本MOD为中文地图字体包MOD，作用是将地图字体替换为「MiSans」。
+需要同时订阅带汉化的MOD使用（如52汉化、日不落等）。
+如有其他汉化 MOD 使用本地图字体无效的，请在下方评论区留言。
+声明：非开源字体版权归原著作权人所有。此处仅作为个人分享交流使用。
+
 ##### 思源宋体
 
 To non-Chinese players: this mod is a Chinese map font mod.
