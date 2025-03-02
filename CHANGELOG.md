@@ -33,6 +33,11 @@
 |天行有常demo||
 |1356 Reborn 简体中文版||
 |NYAB Expanded|战争前夜拓展|
+|Common Universalis 1.37|环球风云|
+
+## v2.8.1
+
+- 适配环球风云
 
 ## v2.8.0
 

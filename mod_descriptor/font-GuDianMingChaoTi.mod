@@ -1,4 +1,4 @@
-version="2.8.0"
+version="2.8.1"
 tags={
 	"Map"
 }
@@ -25,6 +25,7 @@ dependencies={
 	"战争前夜汉化"
 	"1356 Reborn 简体中文版"
 	"NYAB Expanded"
+	"Common Universalis 1.37"
 }
 picture="thumbnail.png"
 supported_version="v1.37.*"
