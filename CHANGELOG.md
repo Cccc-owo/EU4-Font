@@ -24,7 +24,7 @@
 |战争前夜汉化||
 |Anbennar Chinese ver|安本纳尔汉化|
 |奇异帝国（The Odd Empires）汉化||
-|MnT3.0 简中汉化子MOD「筑紫圆体」||
+|MnT3.0 简中汉化子MOD||
 |帝国风云3.11 帝国的成长 基础汉化版||
 |1.37 Celestial empire on which the sun never sets|1.37 东亚·天朝日不落|
 |伏尔泰的噩梦Ⅱ汉化整合||
@@ -34,6 +34,10 @@
 |1356 Reborn 简体中文版||
 |NYAB Expanded|战争前夜拓展|
 |Common Universalis 1.37|环球风云|
+
+## v2.8.2
+
+- 适配更多MnT汉化sub-mod
 
 ## v2.8.1
 

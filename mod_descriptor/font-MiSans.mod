@@ -1,4 +1,4 @@
-version="2.8.1"
+version="2.8.2"
 tags={
 	"Map"
 }
@@ -17,6 +17,13 @@ dependencies={
 	"帝国风云3.11 帝国的成长 基础汉化版"
 	"伏尔泰的噩梦Ⅱ汉化整合"
 	"MnT3.0 简中汉化子MOD「筑紫圆体」"
+	"MnT3.0 简中汉化子MOD「方正悠宋」"
+	"MnT3.0 简中汉化子MOD「霞鹜文楷」"
+	"MnT3.0 简中汉化子MOD「旗黑」"
+	"MnT3.0 简中汉化子MOD「汉仪玄宋」"
+	"MnT3.0 简中汉化子MOD「旧52字体」"
+	"MnT3.0 简中汉化子MOD「筑紫古典」"
+	"MnT3.0 简中汉化子MOD「汉文正楷」"
 	"奇异帝国（The Odd Empires）汉化"
 	"Third Odyssey: Back to the Motherland CN"
 	"天行有常demo"
